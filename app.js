@@ -7,7 +7,7 @@ let todo = [
   "sleep",
   "repeat",
   "bath",
-  "rnsing",
+  "rinsing",
   "breakfast",
   "lunch",
 ];
